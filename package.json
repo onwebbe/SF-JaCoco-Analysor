@@ -1,0 +1,25 @@
+{
+  "name": "sfjacocoanalysor",
+  "version": "1.0.0",
+  "description": "Successfactors Jacoco Analysor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onwebbe/SF-JaCoco-Analysor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onwebbe/SF-JaCoco-Analysor/issues"
+  },
+  "homepage": "https://github.com/onwebbe/SF-JaCoco-Analysor#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.11",
+    "ssl-root-cas": "^1.2.5",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
